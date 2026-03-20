@@ -1,0 +1,9 @@
+{
+  "nume": "Alex",
+  "varsta": 20,
+  "oras": "Iasi",
+  "detalii": {
+    "facultate": "Info",
+    "an": 2
+  }
+}
